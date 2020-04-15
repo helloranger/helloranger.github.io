@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "第一次搭建 jekyll博客!"
+title:  "第一次搭建 jekyll博客! 哈哈哈"
 date:   2020-04-15 23:47:44 +0800
 categories: jekyll update
 ---
